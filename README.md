@@ -16,4 +16,4 @@ I’m currently learning Python<br><br>I’m currently working on Dark-Onion htt
 ![](https://github-contributor-stats.vercel.app/api?username=BurakTuysuz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BurakTuysuz&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
