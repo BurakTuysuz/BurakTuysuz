@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning Python<br><br>I’m currently working on [Dark-Onion](https://github.com/BurakTuysuz/Dark-Onion "Dark-Onion") <br><br>📫 How to reach me https://www.linkedin.com/in/burak-t%C3%BCys%C3%BCz-a40b48302<br><br>👨‍💻 All of my projects are available at https://github.com/BurakTuysuz?tab=repositories
+I’m currently learning Python<br><br>I’m currently working on [Dark-Onion](https://github.com/BurakTuysuz/Dark-Onion "Dark-Onion") <br><br>📫 How to reach me [Linkedin](https://www.linkedin.com/in/burak-t%C3%BCys%C3%BCz-a40b48302) <br><br>👨‍💻 All of my projects are available at [BurakTuysuz Repositories] (https://github.com/BurakTuysuz?tab=repositories) 
 
 
 ## Socials:
