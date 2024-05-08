@@ -10,7 +10,7 @@ I’m currently learning Python<br><br>📫 How to reach me [Linkedin](https://w
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BurakTuysuz&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BurakTuysuz&theme=radical&hide_border=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BurakTuysuz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
