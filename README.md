@@ -14,8 +14,6 @@ I’m currently learning Python<br><br>📫 How to reach me [Linkedin](https://w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BurakTuysuz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BurakTuysuz&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
