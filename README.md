@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning Python<br><br>📫 How to reach me [Linkedin](https://www.linkedin.com/in/burak-t%C3%BCys%C3%BCz-a40b48302) <br><br>👨‍💻 All my projects [Repositories](https://github.com/BurakTuysuz?tab=repositories) 
+I’m a software developer in Python for Linux distributions<br><br>📫 How to reach me [Linkedin](https://www.linkedin.com/in/burak-t%C3%BCys%C3%BCz-a40b48302)
 
 
 ## Socials:
