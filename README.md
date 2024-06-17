@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a software developer in Python for Linux distributions<br><br>📫 Reach me [Linkedin](https://www.linkedin.com/in/burak-t%C3%BCys%C3%BCz-a40b48302)
 
 
@@ -16,4 +16,14 @@ I’m a software developer in Python for Linux distributions<br><br>📫 Reach m
 
 
 ---
+
+<a href="https://github.com/BurakTuysuz/DarknessOnion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=DarknessOnion&theme=nightowl" />
+</a>
+<a href="https://github.com/BurakTuysuz/WifiPenguin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=WifiPenguin&theme=nightowl" />
+</a>
+
+---
+
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
