@@ -1,4 +1,3 @@
-# About Me:
 I’m a software developer in Python for Linux distributions<br><br>📫 Reach me [Linkedin](https://www.linkedin.com/in/burak-t%C3%BCys%C3%BCz-a40b48302)
 
 --- 
