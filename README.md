@@ -26,6 +26,9 @@ I am developing desktop software with Python, and I focus more on Linux distribu
 <a href="https://github.com/BurakTuysuz/DarknessOnion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=DarknessOnion&theme=nightowl" />
 </a>
+<a href="https://github.com/BurakTuysuz/MebK12Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=MebK12Bot&theme=nightowl" />
+</a>
 <a href="https://github.com/BurakTuysuz/WifiPenguin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=WifiPenguin&theme=nightowl" />
 </a>
