@@ -9,9 +9,9 @@ I am developing desktop software with Python, and I focus more on Linux distribu
 
 
 ![](https://github-readme-stats.vercel.app/api?username=BurakTuysuz&theme=radical&hide_border=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BurakTuysuz&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BurakTuysuz&theme=radical&hide_border=false)<br/>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&theme=tokyonight)
 ---
 
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
