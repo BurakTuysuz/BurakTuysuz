@@ -9,7 +9,7 @@ I am developing desktop software with Python, and I focus more on Linux distribu
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
