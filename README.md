@@ -11,7 +11,7 @@ I am developing desktop software with Python, and I focus more on Linux distribu
 ![](https://github-readme-stats.vercel.app/api?username=BurakTuysuz&theme=radical&hide_border=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BurakTuysuz&theme=radical&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz)](https://github.com/BurakTuysuz/github-readme-stats)
 ---
 
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
