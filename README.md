@@ -8,7 +8,15 @@ I am developing desktop software with Python, and I focus more on Linux distribu
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+![](https://github-readme-stats.vercel.app/api?username=BurakTuysuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BurakTuysuz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakTuysuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+![](https://github-profile-trophy.vercel.app/?username=BurakTuysuz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+![](https://github-contributor-stats.vercel.app/api?username=LuNiZz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
