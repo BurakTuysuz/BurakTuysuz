@@ -15,6 +15,10 @@ I am developing desktop software with Python, and I focus more on Linux distribu
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=BurakTuysuz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=github-readme-stats)](https://github.com/BurakTuysuz/DarknessOnion)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=BurakTuysuz&repo=github-readme-stats)](https://github.com/BurakTuysuz/MebK12Bot)
 ---
 
 ![](https://komarev.com/ghpvc/?username=BurakTuysuz&color=blueviolet)
